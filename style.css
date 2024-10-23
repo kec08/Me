@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.title-pg {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 1229px;
+  background-image: url(./main-img.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.logo {
+  width: 200px;
+  height: 212px;
+  margin: 0px 851px 12px 60px;
+  font-family: InknutAntiqua;
+  font-size: 45px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111111;
+  position: relative;
+  top: 35px;
+}
+
+.title-main-text {
+  width: 1100px;
+  height: 212px;
+  margin: 0 auto;
+  font-family: Inter;
+  font-size: 180px;
+  font-weight: 100;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111111;
+}
+
+.text-style-1{
+  font-family: Inter;
+  font-size: 45px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #111111;
+}
+
+
+.main-pg {
+  width: 1920px;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+}
+
+
+.main-t-text1 {
+  width: 2000px;
+  height: 150px;
+  flex-grow: 0;
+  margin: 200px 0px 200px 150px;
+  font-family: Inter;
+  font-size: 100px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #111;
+}
+
+.main-t-text2 {
+  width: 1800px;
+  height: 400px;
+  flex-grow: 0;
+  margin: 50px  170px;
+  text-align: left;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+  text-align: left;
+}
+
+.namespace-footer {
+  text-align: center;
+  margin: 300px 0px 40px 0px;
+  font-size: 30px;
+  color: #757575;
+}
+
